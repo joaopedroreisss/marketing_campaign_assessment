@@ -26,3 +26,28 @@ Definições:
 - Como só há disponível dados dos custos das campanhas (sem salário dos profissionais envolvidos, infraestrutura necessária e etc), não utilizarei o CAC, utilizarei o CPA para mensurar conversões.
 - Considero também que para ter uma visão mais completa da performance das campanhas seria necessário ter dados para calcular o ROI e LTV.
 - Não explorei muito a variável device por não considerar relevante para extração de insights acionáveis nesse contexto.
+
+# 4. Solução: Definição dos KPIs para avaliação da performance
+
+Farei a avaliação da performance de forma geral e por canal também, que considero mais útil.
+
+Para a avaliação utilizarei os KPIs abaixo.
+
+Desempenho geral:
+- Lead / device / mês
+- Cliente / device / mês
+- Taxa de conversão / device / mês
+- Leads / mês
+- Clientes / mês
+- Taxa de conversão / mês
+- CPL / mês
+- CPA / mês
+- Custo / mês
+
+Desempenho por canal:
+- Leads / canal / mês
+- Clientes / canal / mês
+- Taxa de conversão / canal / mês
+- CPL / canal / mês
+- CPA / canal / mês
+- Custo / canal / mês
