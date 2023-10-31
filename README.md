@@ -55,3 +55,5 @@ Desempenho por canal:
 ## Performance por Device (Leads, Clientes e Taxa de Conversão) 
 
 ![table_1](tables/t_1.png)
+
+![chart_1](charts/1_pfm_leads_device)
