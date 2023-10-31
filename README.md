@@ -56,4 +56,4 @@ Desempenho por canal:
 
 ![table_1](tables/t_1.png)
 
-![chart_1](charts/1_pfm_leads_device)
+![chart_1](charts/1_pfm_leads_device.png)
