@@ -51,3 +51,7 @@ Desempenho por canal:
 - CPL / canal / mês
 - CPA / canal / mês
 - Custo / canal / mês
+
+# Performance por Device (Leads, Clientes e Taxa de Conversão) 
+
+![table_1](tables/t_1.png)
