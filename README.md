@@ -13,17 +13,16 @@ Por fim, darei uma recomendação de estratégia para melhorar a performance dos
 
 # 2. Overview sobre os Dados
 
-Para o essa análise foi utilizado 2 datasets disponíveis chamados de “trials” e “costs”. “Trials” tem uma lista de todas as lojas de prova (trials) que foram geradas nos últimos 20 meses. “Costs” tem os custos de Marketing para adquirir esses trials.
+Para o essa análise foi utilizado 2 datasets disponíveis chamados de “Trials” e “Costs”. “Trials” tem uma lista de todas as lojas de prova (trials) que foram geradas nos últimos 20 meses (Leads). “Costs” tem os custos de Marketing por canal para adquirir esses trials (leads).
 
-Definições:
+Definições dos Datasets:
 - Source: canal de aquisição do trial.
 - Device: dispositivo de criação da loja (Mobile ou Desktop).
 - Payment Probability: a probabilidade de que um trial se torne um pagamento. Se o valor for maior ou igual que 0.75, significa que com certeza que a loja se tornará cliente (conversão).
 
 # 3. Considerações, premissas e observações sobre os dados e a resolução
 
-- Estou considerando que a base de dados “trials” são leads e uma conversão quando Payment Probability >= 0.75.
-- Como só há disponível dados dos custos das campanhas (sem salário dos profissionais envolvidos, infraestrutura necessária e etc), não utilizarei o CAC, utilizarei o CPA para mensurar conversões.
+- Como só há disponíveis dados dos custos das campanhas (sem salário dos profissionais envolvidos, infraestrutura necessária e etc), não utilizarei o CAC, utilizarei o CPA para mensurar conversões.
 - Considero também que para ter uma visão mais completa da performance das campanhas seria necessário ter dados para calcular o ROI e LTV.
 - Não explorei muito a variável device por não considerar relevante para extração de insights acionáveis nesse contexto.
 
