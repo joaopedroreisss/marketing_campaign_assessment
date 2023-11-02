@@ -18,7 +18,7 @@ Para o essa análise foi utilizado 2 datasets disponíveis chamados de “trials
 Definições:
 - Source: canal de aquisição do trial.
 - Device: dispositivo de criação da loja (Mobile ou Desktop).
-- Payment Probability: a probabilidade de que um trial se torne um pagamento. Se o valor for maior ou igual que 0.75, significa que com certeza que a loja irá pagar.
+- Payment Probability: a probabilidade de que um trial se torne um pagamento. Se o valor for maior ou igual que 0.75, significa que com certeza que a loja se tornará cliente (conversão).
 
 # 3. Considerações, premissas e observações sobre os dados e a resolução
 
