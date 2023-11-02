@@ -3,6 +3,7 @@
 ![imagem_1](imagens/funil1.jpg)
 
 # Sumário
+
 ***1. Problema de Negócio***
 ***2. Overview sobre os Dados***
 ***3. Considerações, premissas e observações sobre os dados e a resolução***
