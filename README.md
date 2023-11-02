@@ -142,7 +142,7 @@ Dessa forma percebe-se a importância de analisar CPA junto com conversão, para
 
 Finalizado a análise geral e agora entrando com a performance quebrada pelos canais de aquisição, conforme o gráfico nº 8 e as tabelas nº 7 e 8 abaixo, observa-se tendência de crescimento dos leads em todos canais, mas  ao comparar mês 1 e 20 (tabela nº 7) destaca-se o Google Ads Brand com o maior crescimento (53,54%).
 
-Conforme a tabela nº 8 abaixo, a partir da comparação entre semestres de início e fim do período ao invés dos meses, percebe-se mudanças significativas, o Google Ads Brand apresenta um crescimento dos leads bem inferior, agora ficando atrás do Google Ads Non Brand que apresentou 37,42% de crescimento.
+Conforme a tabela nº 8 abaixo, a partir da comparação entre semestres de início e fim do período ao invés dos meses, percebe-se mudanças significativas, o Google Ads Brand apresenta um crescimento dos leads bem inferior, agora ficando atrás do Google Ads Non Brand que apresentou 37,42% de crescimento (conforme tabela nº 7)
 
 #### Gráfico 8
 ![chart_8](charts/8_pfm_cnl_leads.png)
@@ -153,7 +153,7 @@ Conforme a tabela nº 8 abaixo, a partir da comparação entre semestres de iní
 #### Tabela 8 - Leads
 ![table_8](tables/t_8.png)
 
-Apesar disso, conforme o gráfico nº 9 e tabela nº 9 abaixo, nota-se também que o custo ao comparar os meses 1 e 20 deste canal aumentou desproporcionalmente ao crescimento (136,61%). 
+Apesar disso, conforme o gráfico nº 9 e tabela nº 9 abaixo, nota-se também que o custo ao comparar os meses 1 e 20 (tabela nº 9) do canal Google Ads Brand aumentou desproporcionalmente (136,61%) ao crescimento de leads . 
 
 #### Gráfico 9
 ![chart_9](charts/9_pfm_cnl_custos.png)
