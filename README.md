@@ -40,7 +40,7 @@ Definições dos Datasets:
 # 4. Ferramentas e etapas
 
 Para o desenvolvimento desse projeto foi utilizado SQL (BigQuery) para manipulação dos dados e Googlhe sheets para algumas manipulações finais (em cima das tabelas extraídas via SQL) e visualização dos dados.
-<a href=“[http://exemplo.com/](https://github.com/joaopedroreisss/marketing_campaign_assessment/tree/main/sql_bigquery_queries)“>Queries SQL criadas</a>
+<a href=“https://github.com/joaopedroreisss/marketing_campaign_assessment/tree/main/sql_bigquery_queries“>Queries SQL criadas</a>
 Planilha com algumas formulas e visualizações: 
 
 # 4. Solução (Pt 1): Definição dos KPIs para avaliação da performance
