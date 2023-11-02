@@ -3,13 +3,13 @@
 ![imagem_1](imagens/funil1.jpg)
 
 # Sumário
-***1. Problema de Negócio 
-2. Overview sobre os Dados
-3. Considerações, premissas e observações sobre os dados e a resolução
-4. Ferramentas e etapas
-5. Solução (Pt 1): Definição dos KPIs para avaliação da performance
-6. Solução (Pt 2): Avaliação da performance por meio dos KPIs
-7. Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com base nos KPIs***
+***  1. Problema de Negócio 
+     2. Overview sobre os Dados
+     3. Considerações, premissas e observações sobre os dados e a resolução
+     4. Ferramentas e etapas
+     5. Solução (Pt 1): Definição dos KPIs para avaliação da performance
+     6. Solução (Pt 2): Avaliação da performance por meio dos KPIs
+     7. Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com base nos KPIs***
 
 # 1. Problema de Negócio
 
