@@ -50,7 +50,7 @@ Para o desenvolvimento desse projeto foi utilizado SQL (BigQuery) para manipula�
 - [Queries SQL criadas](https://github.com/joaopedroreisss/marketing_campaign_assessment/tree/main/sql_bigquery_queries)
 - [Planilha com algumas formulas e visualizações](https://docs.google.com/spreadsheets/d/1lYov5NKXuggq5ObP1ddDd7BHcCNoMl6jVvv-c_NzwVo/edit?usp=sharing)
 
-# 4. Solução (Pt 1): Definição dos KPIs para avaliação da performance
+# 5. Solução (Pt 1): Definição dos KPIs para avaliação da performance
 
 Farei a avaliação da performance de forma geral e por canal também, que considero mais útil.
 
@@ -75,9 +75,9 @@ Desempenho por canal:
 - CPA / canal / mês
 - Custo / canal / mês
 
-# 5. Solução (Pt 2): Avaliação da performance por meio dos KPIs
+# 6. Solução (Pt 2): Avaliação da performance por meio dos KPIs
 
-***5.1 Performance por Device (Leads, Clientes e Taxa de Conversão)***
+***6.1 Performance por Device (Leads, Clientes e Taxa de Conversão)***
 
 Conforme os gráficos nº 1 e 2 abaixo,  a respeito do Device, analisando a performance sem quebrar por canal, nota-se que ambos dispositivos apresentaram tendência de crescimento dos leads mensais, mas se tratando de clientes, o Desktop apresentou tendência de crescimento mais significativa se comparado ao Mobile, que devido às proporções do gráfico aparenta estagnação, mas observando os número notamos tendência de crescimento sutil.
 
@@ -228,7 +228,7 @@ Por fim, conforme o gráfico nº 15 abaixo, observa-se o canal Partner como dest
 
 A partir da análise do conjunto de gráficos e tabelas apresentados anteriormente relacionado à quebra por canais, nota-se mais vantagem no canal Google Ads Brand de forma geral, pois apesar de ter apresentado taxa de conversão inferior canal Partners, apresenta o menor CPA predominante no período.
 
-## Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com base nos KPIs
+## 7. Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com base nos KPIs
 
 Frente a esse cenário, considero que a estratégia mais eficiente seria focar em melhorar os KPIs CPA e taxa de conversão olhando individualmente para cada canal.
 
