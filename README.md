@@ -1,5 +1,7 @@
 # marketing_campaign_assessment
 
+![imagem_1](imagens/funil1.jpg)
+
 # 1. Problema de Negócio
 
 A empresa “Sales Machine” é uma empresa que fornece um ecossistema de e-commerce para empreendedores que querem criar sua loja online, incluindo a loja online propriamente, sistema de pagamentos, logística e etc. Alguns concorrentes diretos são VTEX, Loja Integrada e Nuvemshop.
