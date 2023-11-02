@@ -53,7 +53,7 @@ Desempenho por canal:
 
 # 5. Solução (Pt 2): Avaliação da performance por meio dos KPIs
 
-**5.1 Performance por Device (Leads, Clientes e Taxa de Conversão) 
+***5.1 Performance por Device (Leads, Clientes e Taxa de Conversão) 
 
 Conforme os gráficos nº 1 e 2 abaixo,  a respeito do Device, analisando a performance sem quebrar por canal, nota-se que ambos dispositivos apresentaram tendência de crescimento dos leads mensais, mas se tratando de clientes, o Desktop apresentou tendência de crescimento mais significativa se comparado ao Mobile, que devido às proporções do gráfico aparenta estagnação, mas observando os número notamos tendência de crescimento sutil.
 
