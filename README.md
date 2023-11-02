@@ -6,23 +6,23 @@
 
 ***1. Problema de Negócio***
 
-***2. Overview sobre os Dados***
+***2. Overview Sobre os Dados***
 
-***3. Considerações, premissas e observações sobre os dados e a resolução***
+***3. Considerações, Premissas e Observações Sobre os Dados e a Resolução***
 
-***4. Ferramentas e etapas***
+***4. Ferramentas***
 
-***5. Solução (Pt 1): Definição dos KPIs para avaliação da performance***
+***5. Solução (Pt 1): Definição dos KPIs para Avaliação da Performance***
 
-***6. Solução (Pt 2): Avaliação da performance por meio dos KPIs***
+***6. Solução (Pt 2): Avaliação da Performance por Meio dos KPIs***
 
-***7. Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com base nos KPIs***
+***7. Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com Base nos KPIs***
 
 # 1. Problema de Negócio
 
 A empresa “Sales Machine” é uma empresa que fornece um ecossistema de e-commerce para empreendedores que querem criar sua loja online, incluindo a loja online propriamente, sistema de pagamentos, logística e etc. Alguns concorrentes diretos são VTEX, Loja Integrada e Nuvemshop.
 
-Cenário: o time de Marketing da Sales Machine solicita então ajuda para melhorar a aquisição de clientes e fazer otimizações do investimento, além de pedir opinião sobre a performance nos últimos 20 meses.
+Cenário: o time de Marketing da Sales Machine solicita então ajuda para melhorar a aquisição de clientes e fazer otimizações do investimento, além de pedir opinião sobre a performance das campanhas de marketing realizadas nos últimos 20 meses.
 
 Dado esse contexto e a partir dos dados disponíveis, irei definir os KPIs e em seguida avaliarei a performance durante o período.
 
@@ -31,20 +31,20 @@ Por fim, darei uma recomendação de estratégia para melhorar a performance dos
 
 # 2. Overview sobre os Dados
 
-Para o essa análise foi utilizado 2 datasets disponíveis chamados de “Trials” e “Costs”. “Trials” tem uma lista de todas as lojas de prova (trials) que foram geradas nos últimos 20 meses (Leads). “Costs” tem os custos de Marketing por canal para adquirir esses trials (leads).
+Para o essa análise foram utilizados 2 datasets disponíveis chamados de “Trials” e “Costs”. “Trials” tem uma lista de todas as lojas de prova (trials) que foram geradas nos últimos 20 meses (Leads). “Costs” tem os custos de Marketing por canal para adquirir esses trials (leads).
 
 Definições dos Datasets:
 - Source: canal de aquisição do trial.
 - Device: dispositivo de criação da loja (Mobile ou Desktop).
 - Payment Probability: a probabilidade de que um trial se torne um pagamento. Se o valor for maior ou igual que 0.75, significa que com certeza que a loja se tornará cliente (conversão).
 
-# 3. Considerações, premissas e observações sobre os dados e a resolução
+# 3. Considerações, Premissas e Observações Sobre os Dados e a Resolução
 
 - Como só há disponíveis dados dos custos das campanhas (sem salário dos profissionais envolvidos, infraestrutura necessária e etc), não utilizarei o CAC, utilizarei o CPA para mensurar conversões.
 - Considero também que para ter uma visão mais completa da performance das campanhas seria necessário ter dados para calcular o ROI e LTV.
 - Não explorei muito a variável device por não considerar relevante para extração de insights acionáveis nesse contexto.
 
-# 4. Ferramentas e etapas
+# 4. Ferramentas
 
 Para o desenvolvimento desse projeto foi utilizado SQL (BigQuery) para manipulação dos dados e Googlhe sheets para algumas manipulações finais (em cima das tabelas extraídas via SQL) e visualização dos dados.
 - [Queries SQL criadas](https://github.com/joaopedroreisss/marketing_campaign_assessment/tree/main/sql_bigquery_queries)
@@ -52,9 +52,9 @@ Para o desenvolvimento desse projeto foi utilizado SQL (BigQuery) para manipula�
 
 # 5. Solução (Pt 1): Definição dos KPIs para avaliação da performance
 
-Farei a avaliação da performance de forma geral e por canal também, que considero mais útil.
+A performance será avaliada de forma geral e por canal também, que considero mais útil.
 
-Para a avaliação utilizarei os KPIs abaixo.
+KPIs definidos para avaliação:
 
 Desempenho geral:
 - Lead / device / mês
@@ -75,11 +75,11 @@ Desempenho por canal:
 - CPA / canal / mês
 - Custo / canal / mês
 
-# 6. Solução (Pt 2): Avaliação da performance por meio dos KPIs
+# 6. Solução (Pt 2): Avaliação da Performance por Meio dos KPIs
 
 ***- Performance por Device (Leads, Clientes e Taxa de Conversão)***
 
-Conforme os gráficos nº 1 e 2 abaixo,  a respeito do Device, analisando a performance sem quebrar por canal, nota-se que ambos dispositivos apresentaram tendência de crescimento dos leads mensais, mas se tratando de clientes, o Desktop apresentou tendência de crescimento mais significativa se comparado ao Mobile, que devido às proporções do gráfico aparenta estagnação, mas observando os número notamos tendência de crescimento sutil.
+Conforme os gráficos nº 1 e 2 abaixo,  a respeito do Device, analisando a performance sem quebrar por canal, nota-se que ambos dispositivos apresentaram tendência de crescimento dos leads mensais, mas se tratando de clientes, o Desktop apresentou tendência de crescimento mais significativa se comparado ao Mobile, que devido às proporções do gráfico aparenta estagnação, mas observando os números notamos tendência de crescimento sutil.
 
 #### Gráfico 1
 ![chart_1](charts/1_pfm_leads_device.png)
@@ -99,7 +99,7 @@ Conforme o gráfico nº 4 abaixo, analisando a performance geral, sem quebrar po
 #### Gráfico 4
 ![chart_4](charts/4_pfm_Leads_CPL_Custos.png)
 
-Conforme as tabelas nº 1, 2 e 3 abaixo, nota-se uma performance positiva ao final do período, com CPL quase 17% menor que o mês 1, porém o mês 14 (com um círculo no gráfico)  que apresentou o período de melhor performance com CPL 30,65% menor que o mês 1. Porém, fatores como sazonalidade podem distorcer a realidade ao comparar períodos curtos e diferentes, em função disso, ao comparar o semestre do fim do período com o do início conforme a tabela, obtemos um CPL ainda melhor, de 38,20% menor que o início, reforçando a situação positiva.
+Conforme as tabelas nº 1 e 2 abaixo, nota-se uma performance positiva ao final do período, com CPL quase 17% menor que o mês 1, porém o mês 14 (com um círculo no gráfico e apontado como o monor CPL na tabela nº 2) que apresentou o período de melhor performance com CPL 30,65% menor que o mês 1. Porém, fatores como sazonalidade podem distorcer a realidade ao comparar períodos curtos e diferentes, em função disso, conforme a tabela nº 3 ao comparar o semestre do fim do período com o do início conforme a tabela, obtemos um CPL ainda melhor, de 38,20% menor que o início, reforçando a situação positiva.
 
 #### Tabela 1 - CPL, Leads e Custos
 ![table_1](tables/t_1.png)
@@ -120,18 +120,18 @@ Conforme o gráfico nº 5 e 6 abaixo, nota-se um movimento do CPA x clientes sem
 #### Gráfico 6
 ![chart_6](charts/6_pfm_Clientes_Custos.png)
 
-Conforme as tabelas nº 4, 5 e 6 abaixo, nota-se uma performance positiva ao comparar mês 1 e 20, com CPA 16,21% menor que o início, porém o mês 16 (com um círculo no gráfico nº 5)  que apresentou melhor performance com CPA 34,08% menor que o início. Novamente, comparando semestres a fim de diminuir sazonalidade, obtemos também um valor melhor, com CPA do último semestre 41,27% menor que o de início.
+Conforme as tabelas nº 4 e 5 abaixo, nota-se uma performance positiva ao comparar mês 1 e 20, com CPA 16,21% menor que o início, porém o mês 16 (com um círculo no gráfico nº 5 e conforme a tabela nº 5) que apresentou melhor performance com CPA 34,08% menor que o início. Novamente, conforme a tabela nº 6 abaixo, comparando semestres a fim de diminuir sazonalidade, obtemos também um valor melhor, com CPA do último semestre 41,27% menor que o de início.
 
 #### Tabela 4 - CPA, Clientes e Custos
 ![table_4](tables/t_4.png)
 
 #### Tabela 5 - CPA, Clientes e Custos
-![table_5](tables/t_5.png)
-
-#### Tabela 6 - CPA, Clientes e Custos
 ![table_6](tables/t_6.png)
 
-Ao comparar os meses 1 e 20, a melhor performance do CPL foi no mês 14, mas a do CPA foi 16. Além disso, conforme o gráfico nº 7 abaixo, destaca-se o mês 17 com a maior conversão (12,82%) e o mês 16 com a 2º (12,71%), em que obteve-se o menor CPA.
+#### Tabela 6 - CPA, Clientes e Custos
+![table_5](tables/t_5.png)
+
+Ao comparar os meses 1 e 20, a melhor performance do CPL foi no mês 14, mas a do CPA foi no mês 16. Além disso, conforme o gráfico nº 7 abaixo, destaca-se o mês 17 com a maior conversão (12,82%) e o mês 16 com a 2º (12,71%), em que obteve-se o menor CPA.
 
 #### Gráfico 7
 ![chart_7](charts/7_pfm_Taxa_Conversao.png)
@@ -140,7 +140,9 @@ Dessa forma percebe-se a importância de analisar CPA junto com conversão, para
 
 ***- Performance por Canal (Leads e Custos)***
 
-Finalizado a análise geral e agora entrando com a performance quebrada pelos canais de aquisição, conforme o gráfico nº 8 e as tabelas nº 7 e 8 abaixo, observa-se tendência de crescimento dos leads em todos canais, mas  ao comparar mês 1 e 20 destaca-se o Google Ads Brand com o maior crescimento (53,54%).
+Finalizado a análise geral e agora entrando com a performance quebrada pelos canais de aquisição, conforme o gráfico nº 8 e as tabelas nº 7 e 8 abaixo, observa-se tendência de crescimento dos leads em todos canais, mas  ao comparar mês 1 e 20 (tabela nº 7) destaca-se o Google Ads Brand com o maior crescimento (53,54%).
+
+Conforme a tabela nº 8 abaixo, a partir da comparação entre semestres de início e fim do período ao invés dos meses, percebe-se mudanças significativas, o Google Ads Brand apresenta um crescimento dos leads bem inferior, agora ficando atrás do Google Ads Non Brand que apresentou 37,42% de crescimento.
 
 #### Gráfico 8
 ![chart_8](charts/8_pfm_cnl_leads.png)
@@ -151,7 +153,7 @@ Finalizado a análise geral e agora entrando com a performance quebrada pelos ca
 #### Tabela 8 - Leads
 ![table_8](tables/t_8.png)
 
-Apesar disso, conforme o gráfico nº 9 e tabelas nº 9 e 10 abaixo, nota-se também que o custo ao comparar os meses 1 e 20 deste canal aumentou desproporcionalmente ao crescimento (136,61%). A partir da comparação entre semestres de início e fim do período ao invés dos meses, percebe-se mudanças significativas, o Google Ads Brand apresenta um crescimento dos leads bem inferior, agora ficando atrás do Google Ads Non Brand que apresentou 37,42% de crescimento.
+Apesar disso, conforme o gráfico nº 9 e tabela nº 9 abaixo, nota-se também que o custo ao comparar os meses 1 e 20 deste canal aumentou desproporcionalmente ao crescimento (136,61%). 
 
 #### Gráfico 9
 ![chart_9](charts/9_pfm_cnl_custos.png)
