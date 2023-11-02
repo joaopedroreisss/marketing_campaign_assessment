@@ -26,8 +26,7 @@ Definições dos Datasets:
 - Considero também que para ter uma visão mais completa da performance das campanhas seria necessário ter dados para calcular o ROI e LTV.
 - Não explorei muito a variável device por não considerar relevante para extração de insights acionáveis nesse contexto.
 
-# 4. Solução 
-## 4.1: Definição dos KPIs para avaliação da performance
+# 4. Solução (Pt 1): Definição dos KPIs para avaliação da performance
 
 Farei a avaliação da performance de forma geral e por canal também, que considero mais útil.
 
@@ -52,7 +51,7 @@ Desempenho por canal:
 - CPA / canal / mês
 - Custo / canal / mês
 
-## 4.2: Avaliação da performance por meio dos KPIs
+# 5. Solução (Pt 2): Avaliação da performance por meio dos KPIs
 
 ## Performance por Device (Leads, Clientes e Taxa de Conversão) 
 
