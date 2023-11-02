@@ -56,7 +56,7 @@ Desempenho por canal:
 
 Conforme os gráficos nº 1 e 2 abaixo,  a respeito do Device, analisando a performance sem quebrar por canal, nota-se que ambos dispositivos apresentaram tendência de crescimento dos leads mensais, mas se tratando de clientes, o Desktop apresentou tendência de crescimento mais significativa se comparado ao Mobile, que devido às proporções do gráfico aparenta estagnação, mas observando os número notamos tendência de crescimento sutil.
 
-Gráfico 1
+### Gráfico 1
 ![chart_1](charts/1_pfm_leads_device.png)
 
 Gráfico 2
