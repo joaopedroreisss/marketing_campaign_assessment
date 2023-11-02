@@ -57,30 +57,30 @@ Desempenho por canal:
 
 Conforme os gráficos nº 1 e 2 abaixo,  a respeito do Device, analisando a performance sem quebrar por canal, nota-se que ambos dispositivos apresentaram tendência de crescimento dos leads mensais, mas se tratando de clientes, o Desktop apresentou tendência de crescimento mais significativa se comparado ao Mobile, que devido às proporções do gráfico aparenta estagnação, mas observando os número notamos tendência de crescimento sutil.
 
-### Gráfico 1
+#### Gráfico 1
 ![chart_1](charts/1_pfm_leads_device.png)
 
-### Gráfico 2
+#### Gráfico 2
 ![chart_2](charts/2_pfm_clientes_device.png)
 
 Além disso, ao analisar o gráfico nº 3 abaixo, referente a performance de conversão (leads/clientes) por device, ambos dispositivos aparentam quase uma estagnação, mas nota-se sutil tendência de queda do Desktop e sutil tendência de alta do Mobile.
 
-### Gráfico 3
+#### Gráfico 3
 ![chart_3](charts/3_pfm_conversao_device.png)
 
-## Performance Geral (Leads, CPL e Custos)
+***Performance Geral (Leads, CPL e Custos)***
 
 Conforme o gráfico nº 4 abaixo, analisando a performance geral, sem quebrar por canal, notamos a tendência de crescimento de leads mensais, em contrapartida, nota-se o crescente custo até o mês 5, mas do mês 7 ao 10 nota-se diminuição nos custos, porém a quantidade de leads mantém a tendência de crescimento em todo o período, apresentando fraca correlação negativa com os custos (-41,21%), algo positivo que ajuda a reduzir o CPL. A partir do mês 13 nota-se tendência de crescimento nos custos, mas que não altera ou acentua os leads que já estavam em tendência crescente. Principalmente nos meses 19 e 20 nota-se um pico nos custos que só reflete no aumento do CPL, sem consequência no crescimento significativo equivalente dos leads. 
 
-### Gráfico 4
+#### Gráfico 4
 ![chart_4](charts/4_pfm_Leads_CPL_Custos.png)
 
 Conforme as tabelas nº 1, 2 e 3 abaixo, nota-se uma performance positiva ao final do período, com CPL quase 17% menor que o mês 1, porém o mês 14 (com um círculo no gráfico)  que apresentou o período de melhor performance com CPL 30,65% menor que o mês 1. Porém, fatores como sazonalidade podem distorcer a realidade ao comparar períodos curtos e diferentes, em função disso, ao comparar o semestre do fim do período com o do início conforme a tabela, obtemos um CPL ainda melhor, de 38,20% menor que o início, reforçando a situação positiva.
 
-### Tabela 1 - CPL, Leads e Custos
+#### Tabela 1 - CPL, Leads e Custos
 ![table_1](tables/t_1.png)
 
-### Tabela 2 - CPL, Leads e Custos
+#### Tabela 2 - CPL, Leads e Custos
 ![table_2](tables/t_2.png)
 
 ### Tabela 3 - CPL, Leads e Custos
