@@ -77,7 +77,7 @@ Desempenho por canal:
 
 # 6. Solução (Pt 2): Avaliação da performance por meio dos KPIs
 
-*** - Performance por Device (Leads, Clientes e Taxa de Conversão)***
+***- Performance por Device (Leads, Clientes e Taxa de Conversão)***
 
 Conforme os gráficos nº 1 e 2 abaixo,  a respeito do Device, analisando a performance sem quebrar por canal, nota-se que ambos dispositivos apresentaram tendência de crescimento dos leads mensais, mas se tratando de clientes, o Desktop apresentou tendência de crescimento mais significativa se comparado ao Mobile, que devido às proporções do gráfico aparenta estagnação, mas observando os número notamos tendência de crescimento sutil.
 
@@ -92,7 +92,7 @@ Além disso, ao analisar o gráfico nº 3 abaixo, referente a performance de con
 #### Gráfico 3
 ![chart_3](charts/3_pfm_conversao_device.png)
 
-*** - Performance Geral (Leads, CPL e Custos)***
+***- Performance Geral (Leads, CPL e Custos)***
 
 Conforme o gráfico nº 4 abaixo, analisando a performance geral, sem quebrar por canal, notamos a tendência de crescimento de leads mensais, em contrapartida, nota-se o crescente custo até o mês 5, mas do mês 7 ao 10 nota-se diminuição nos custos, porém a quantidade de leads mantém a tendência de crescimento em todo o período, apresentando fraca correlação negativa com os custos (-41,21%), algo positivo que ajuda a reduzir o CPL. A partir do mês 13 nota-se tendência de crescimento nos custos, mas que não altera ou acentua os leads que já estavam em tendência crescente. Principalmente nos meses 19 e 20 nota-se um pico nos custos que só reflete no aumento do CPL, sem consequência no crescimento significativo equivalente dos leads. 
 
