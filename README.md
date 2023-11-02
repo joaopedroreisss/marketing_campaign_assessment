@@ -90,7 +90,7 @@ Conforme as tabelas nº 1, 2 e 3 abaixo, nota-se uma performance positiva ao fin
 Conforme o gráfico nº 5 e 6 abaixo, nota-se um movimento do CPA x clientes semelhante ao visto anteriormente com o CPL x leads, referente aos períodos em que diminui o custo, mas a quantidade de clientes (antes leads) continua crescente, algo positivo que diminui o CPA. Se assemelha também o movimento no mês 19 e 20, em que o CPA (antes CPL) cresce como reflexo do aumento dos custos devido ao não crescimento significativo equivalente dos clientes (antes leads). Ao calcular a correlação entre CPL e CPA de todo o período obtemos forte correlação positiva (96,31%), validando observações anteriores, referente às movimentações semelhantes aos 2 KPIs.
 
 ### Gráfico 5
-![chart_5](charts/5_pfm_ Leads_Clientes_CPA_Custos.png)
+![chart_5](charts/5_pfm_Leads_Clientes_CPA_Custos.png)
 
 ### Gráfico 6
 ![chart_6](charts/6_pfm_Clientes_Custos.png)
