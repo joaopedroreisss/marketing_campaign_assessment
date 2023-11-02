@@ -223,7 +223,7 @@ Conforme o gráfico nº 12 apresentado anteriormente e a tabela nº 15 abaixo, a
 #### Tabela 16 - Clientes
 ![table_16](tables/t_16.png)
 
-Por fim, conforme o gráfico nº 15 abaixo, observa-se o canal Partner como destaque, apresentando maior taxa de conversão predominantemente em todo período, apesar de uma redução ao comparar os meses 1 e 20. Atrás de Partners se encontra o Google Ads Brand com a segunda maior taxa de conversão ao longo do tempo, apesar de sutil redução (-0,18%) ao comparar os meses 1 e 20 também.
+Por fim, conforme o gráfico nº 15 abaixo, observa-se o canal Partners como destaque, apresentando maior taxa de conversão predominantemente em todo período, apesar de uma redução ao comparar os meses 1 e 20. Atrás de Partners se encontra o Google Ads Brand com a segunda maior taxa de conversão ao longo do tempo, apesar de sutil redução (-0,18%) ao comparar os meses 1 e 20 também.
 
 #### Gráfico 15
 ![chart_15](charts/15_pfm_cnl_tx_conversao.png)
