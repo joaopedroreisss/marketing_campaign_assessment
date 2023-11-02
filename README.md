@@ -172,7 +172,7 @@ Conforme o gráfico nº 10 e tabela nº 11 abaixo, ao analisar a performance do 
 
 Ao comparar os meses 1 e 20 (tabela nº 11) o canal Google Ads Brand se mantém o mais atrativo, pois apesar de ter apresentado o maior crescimento (%) do CPL ao final do período, apresentou o menor CPL em número absoluto comparado aos demais canais, algo positivo. Além disso, esse mesmo canal se manteve com menor CPL predominantemente em todo período em comparação aos demais canais.
 
-Nesse caso, a estratégia de comparação entre semestres para amenizar o impacto de sazonalidade utilizando a tabela nº 12 não é interessante, pois observa-se que agora muda o cenário, com o Google Ads Non Brand com uma redução significativamente maior, inclusive superior ao Google Ads Brand, porém isso se deve principalmente aos 2 picos nos meses 4 e 7 do CPL que ocorrem de forma muito alta apenas nesse nesse canal, que estão contidos dentro do semestre considerado como de início e por fim isso gera uma distorção na comparação.
+Nesse caso, a estratégia de comparação entre semestres para amenizar o impacto de sazonalidade utilizando a tabela nº 12 abaixo não é interessante, pois observa-se que agora muda o cenário, com o Google Ads Non Brand com uma redução significativamente maior, inclusive superior ao Google Ads Brand, porém isso se deve principalmente aos 2 picos nos meses 4 e 7 do CPL que ocorrem de forma muito alta apenas nesse nesse canal, que estão contidos dentro do semestre considerado como de início e por fim isso gera uma distorção na comparação.
 
 #### Gráfico 10
 ![chart_10](charts/10_pfm_cnl_cpl.png)
@@ -185,7 +185,7 @@ Nesse caso, a estratégia de comparação entre semestres para amenizar o impact
 
 ***- Performance por Canal (Clientes, CPA e Custos)***
 
-Conforme o gráfico nº 11 e tabelas nº 13 e 14 abaixo, nota-se que o canal Facebook apresenta o CPA com bastante variação e números elevados durante o período, até impossibilitando a visualização da performance dos demais canais nesse gráfico. 
+Conforme o gráfico nº 11 e tabela nº 13 abaixo, nota-se que o canal Facebook apresenta o CPA com bastante variação e números elevados durante o período, até impossibilitando a visualização da performance dos demais canais nesse gráfico. 
 
 #### Gráfico 11
 ![chart_11](charts/11_pfm_cnl_cpa.png)
@@ -198,12 +198,12 @@ Por essa razão, esse canal foi removido no gráfico nº 12 abaixo, assim perceb
 #### Gráfico 12
 ![chart_12](charts/12_pfm_cnl_cpa_sfb.png)
 
-Agora conforme o gráfico nº 13 abaixo com somente com os canais Google Ads Brand e Partners, possibilitando melhor comparação entre eles isoladamente.
+Conforme o gráfico nº 13 abaixo agora com somente com os canais Google Ads Brand e Partners, é possível melhor comparação entre eles isoladamente e perceptível que ambos apresentam variação durante o período tambémm.
 
 #### Gráfico 13
 ![chart_13](charts/13_pfm_cnl_cpa_s2c.png)
 
-A partir do conjunto de gráficos nº 11, 12 e 13 e tabelas nº 13 e 14 apresentados anteriormente, ao observar variação relativa e absoluta do CPA entre os meses 1 e 20, destaca-se o canal Google Ads Non Brand positivamente, por ser o único canal que apresentou redução, apesar disso, continua com CPA elevado e desvantajoso em comparação ao Google Ads Brand e Partners, mesmo que significativamente reduzido.
+A partir do conjunto de gráficos nº 11, 12 e 13 e tabela nº 13 apresentados anteriormente, ao observar variação relativa e absoluta do CPA entre os meses 1 e 20, destaca-se o canal Google Ads Non Brand positivamente, por ser o único canal que apresentou redução, apesar disso, continua com CPA elevado e desvantajoso em comparação ao Google Ads Brand e Partners, mesmo que significativamente reduzido.
 
 Observa-se novamente o destaque do canal Google Ads Brand positivamente, pois apesar de apresentar crescimento relativo elevado do CPA ao comparar os meses 1 e 20, finalizou com o menor no mês 20, além de ter apresentado predominantemente o menor ao longo do período, reflexo das variáveis custos e clientes mensais como podemos ver nos gráficos nº 9 (anterior) e 14 (abaixo).
 
@@ -215,7 +215,7 @@ Nesse caso, assim como em casos explicados anteriormente, não será considerado
 #### Tabela 14 - CPA
 ![table_14](tables/t_14.png)
 
-Conforme o gráfico nº 12 (acima) e as tabelas nº 15 e 16 abaixo, ao comparar os meses 1 e 20, observa-se o crescimento de clientes mensais em todos canais, o Google Ads Brand apresenta maior número de clientes em 100% do período, inclusive com um pico no mês 16, mas em termos de crescimento fica atrás de Partners (com maior crescimento) por 1.79 ponto porcentual.
+Conforme o gráfico nº 12 apresentado anteriormente e a tabela nº 15 abaixo, ao comparar os meses 1 e 20, observa-se o crescimento de clientes mensais em todos canais, o Google Ads Brand apresenta maior número de clientes em 100% do período, inclusive com um pico no mês 16, mas em termos de crescimento fica atrás de Partners (com maior crescimento) por 1.79 ponto porcentual.
 
 #### Tabela 15 - Clientes
 ![table_15](tables/t_15.png)
