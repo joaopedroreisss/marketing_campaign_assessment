@@ -142,7 +142,7 @@ Dessa forma percebe-se a importância de analisar CPA junto com conversão, para
 
 Finalizado a análise geral e agora entrando com a performance quebrada pelos canais de aquisição, conforme o gráfico nº 8 e as tabelas nº 7 e 8 abaixo, observa-se tendência de crescimento dos leads em todos canais, mas  ao comparar mês 1 e 20 (tabela nº 7) destaca-se o Google Ads Brand com o maior crescimento (53,54%).
 
-Conforme a tabela nº 8 abaixo, a partir da comparação entre semestres de início e fim do período ao invés dos meses, percebe-se mudanças significativas, o Google Ads Brand apresenta um crescimento dos leads bem inferior, agora ficando atrás do Google Ads Non Brand que apresentou 37,42% de crescimento (conforme tabela nº 7)
+Conforme a tabela nº 8 abaixo, a partir da comparação entre semestres de início e fim do período ao invés dos meses, percebe-se mudanças significativas, o Google Ads Brand apresenta um crescimento dos leads bem inferior, agora ficando atrás do Google Ads Non Brand que apresentou 37,42% de crescimento.
 
 #### Gráfico 8
 ![chart_8](charts/8_pfm_cnl_leads.png)
@@ -168,7 +168,11 @@ Um ponto de atenção também é o pico nos custos do canal Google Ads Brand no 
 
 ***- Performance por Canal (Leads, CPL e Custos)***
 
-Conforme o gráfico nº 10 e tabela nº 11 e 12 abaixo, ao analisar a performance do CPL durante o período, comparando os meses 1 e 20 percebe-se que nem todos canais apresentaram uma melhora (redução). Nesse caso, Facebook apresenta maior redução do CPL, mas ainda sim continua alto comparado aos demais, com exceção do Google Ads Non Brand. Destaca-se Google Ads Non Brand devido à alta expressiva seguida de queda expressiva a partir do mês 4 até o 14, mas ainda sim termina no mês 20 com CPL alto em relação a todos canais.
+Conforme o gráfico nº 10 e tabela nº 11 abaixo, ao analisar a performance do CPL durante o período, comparando os meses 1 e 20 percebe-se que nem todos canais apresentaram uma melhora (redução). Nesse caso, Facebook apresenta maior redução do CPL, mas ainda sim continua alto comparado aos demais, com exceção do Google Ads Non Brand. Destaca-se Google Ads Non Brand devido à alta expressiva seguida de queda expressiva a partir do mês 4 até o 14, mas ainda sim termina no mês 20 com CPL alto em relação a todos canais.
+
+Ao comparar os meses 1 e 20 (tabela nº 11) o canal Google Ads Brand se mantém o mais atrativo, pois apesar de ter apresentado o maior crescimento (%) do CPL ao final do período, apresentou o menor CPL em número absoluto comparado aos demais canais, algo positivo. Além disso, esse mesmo canal se manteve com menor CPL predominantemente em todo período em comparação aos demais canais.
+
+Nesse caso, a estratégia de comparação entre semestres para amenizar o impacto de sazonalidade utilizando a tabela nº 12 não é interessante, pois observa-se que agora muda o cenário, com o Google Ads Non Brand com uma redução significativamente maior, inclusive superior ao Google Ads Brand, porém isso se deve principalmente aos 2 picos nos meses 4 e 7 do CPL que ocorrem de forma muito alta apenas nesse nesse canal, que estão contidos dentro do semestre considerado como de início e por fim isso gera uma distorção na comparação.
 
 #### Gráfico 10
 ![chart_10](charts/10_pfm_cnl_cpl.png)
@@ -179,10 +183,6 @@ Conforme o gráfico nº 10 e tabela nº 11 e 12 abaixo, ao analisar a performanc
 #### Tabela 12 - CPL
 ![table_12](tables/t_12.png)
 
-Ao comparar os meses 1 e 20 o canal Google Ads Brand se mantém o mais atrativo, pois apesar de ter apresentado o maior crescimento (%) do CPL ao final do período, apresentou o menor CPL em número absoluto comparado aos demais canais, algo positivo. Além disso, esse mesmo canal se manteve com menor CPL predominantemente em todo período em comparação aos demais canais.
-
-Nesse caso, a estratégia de comparação entre semestres para amenizar o impacto de sazonalidade não é interessante, pois observa-se que agora muda o cenário, com o Google Ads Non Brand com uma redução significativamente maior, inclusive superior ao Google Ads Brand, porém isso se deve principalmente aos 2 picos nos meses 4 e 7 do CPL que ocorrem de forma muito alta apenas nesse nesse canal, que estão contidos dentro do semestre considerado como de início e por fim isso gera uma distorção na comparação.
-
 ***- Performance por Canal (Clientes, CPA e Custos)***
 
 Conforme o gráfico nº 11 e tabelas nº 13 e 14 abaixo, nota-se que o canal Facebook apresenta o CPA com bastante variação e números elevados durante o período, até impossibilitando a visualização da performance dos demais canais nesse gráfico. 
@@ -192,9 +192,6 @@ Conforme o gráfico nº 11 e tabelas nº 13 e 14 abaixo, nota-se que o canal Fac
 
 #### Tabela 13 - CPA
 ![table_13](tables/t_13.png)
-
-#### Tabela 14 - CPA
-![table_14](tables/t_14.png)
 
 Por essa razão, esse canal foi removido no gráfico nº 12 abaixo, assim percebe-se que o canal Google Ads Non Brand também apresenta bastante variação no período e números elevados comparados aos outros 2 canais e de novo dificulta a visualização deles.
 
@@ -213,7 +210,10 @@ Observa-se novamente o destaque do canal Google Ads Brand positivamente, pois ap
 #### Gráfico 14
 ![chart_14](charts/14_pfm_cnl_clientes.png)
 
-Nesse caso, assim como em casos explicados anteriormente, não será considerado a comparação entre semestre final e anterior, pois observa-se picos em determinados meses que não se repetem em todos os canais, isso gera distorção na comparação.
+Nesse caso, assim como em casos explicados anteriormente, não será considerado a comparação entre semestre final e anterior (tabela nº 14 abaixo), pois observa-se picos em determinados meses que não se repetem em todos os canais, isso gera distorção na comparação.
+
+#### Tabela 14 - CPA
+![table_14](tables/t_14.png)
 
 Conforme o gráfico nº 12 (acima) e as tabelas nº 15 e 16 abaixo, ao comparar os meses 1 e 20, observa-se o crescimento de clientes mensais em todos canais, o Google Ads Brand apresenta maior número de clientes em 100% do período, inclusive com um pico no mês 16, mas em termos de crescimento fica atrás de Partners (com maior crescimento) por 1.79 ponto porcentual.
 
