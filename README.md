@@ -2,6 +2,15 @@
 
 ![imagem_1](imagens/funil1.jpg)
 
+# Sumário
+1. Problema de Negócio 
+2. Overview sobre os Dados
+3. Considerações, premissas e observações sobre os dados e a resolução
+4. Ferramentas e etapas
+5. Solução (Pt 1): Definição dos KPIs para avaliação da performance
+6. Solução (Pt 2): Avaliação da performance por meio dos KPIs
+7. Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com base nos KPIs
+
 # 1. Problema de Negócio
 
 A empresa “Sales Machine” é uma empresa que fornece um ecossistema de e-commerce para empreendedores que querem criar sua loja online, incluindo a loja online propriamente, sistema de pagamentos, logística e etc. Alguns concorrentes diretos são VTEX, Loja Integrada e Nuvemshop.
@@ -27,6 +36,12 @@ Definições dos Datasets:
 - Como só há disponíveis dados dos custos das campanhas (sem salário dos profissionais envolvidos, infraestrutura necessária e etc), não utilizarei o CAC, utilizarei o CPA para mensurar conversões.
 - Considero também que para ter uma visão mais completa da performance das campanhas seria necessário ter dados para calcular o ROI e LTV.
 - Não explorei muito a variável device por não considerar relevante para extração de insights acionáveis nesse contexto.
+
+# 4. Ferramentas e etapas
+
+Para o desenvolvimento desse projeto foi utilizado SQL (BigQuery) para manipulação dos dados e Googlhe sheets para algumas manipulações finais (em cima das tabelas extraídas via SQL) e visualização dos dados.
+<a href=“[http://exemplo.com/](https://github.com/joaopedroreisss/marketing_campaign_assessment/tree/main/sql_bigquery_queries)“>Queries SQL criadas</a>
+Planilha com algumas formulas e visualizações: 
 
 # 4. Solução (Pt 1): Definição dos KPIs para avaliação da performance
 
@@ -206,7 +221,7 @@ Por fim, conforme o gráfico nº 15 abaixo, observa-se o canal Partner como dest
 
 A partir da análise do conjunto de gráficos e tabelas apresentados anteriormente relacionado à quebra por canais, nota-se mais vantagem no canal Google Ads Brand de forma geral, pois apesar de ter apresentado taxa de conversão inferior canal Partners, apresenta o menor CPA predominante no período.
 
-## Recomendação Final (Para melhorar performance de KPIs)
+## Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com base nos KPIs
 
 Frente a esse cenário, considero que a estratégia mais eficiente seria focar em melhorar os KPIs CPA e taxa de conversão olhando individualmente para cada canal.
 
