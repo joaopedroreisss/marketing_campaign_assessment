@@ -138,7 +138,7 @@ Ao comparar os meses 1 e 20, a melhor performance do CPL foi no mês 14, mas a d
 
 Dessa forma percebe-se a importância de analisar CPA junto com conversão, para entender a proporção de leads que de fato estão se tornando clientes e também o custo de aquisição desses clientes.
 
-####- Performance por Canal (Leads e Custos)
+***- Performance por Canal (Leads e Custos)***
 
 Finalizado a análise geral e agora entrando com a performance quebrada pelos canais de aquisição, conforme o gráfico nº 8 e as tabelas nº 7 e 8 abaixo, observa-se tendência de crescimento dos leads em todos canais, mas  ao comparar mês 1 e 20 destaca-se o Google Ads Brand com o maior crescimento (53,54%).
 
@@ -164,7 +164,7 @@ Apesar disso, conforme o gráfico nº 9 e tabelas nº 9 e 10 abaixo, nota-se tam
 
 Um ponto de atenção também é o pico nos custos do canal Google Ads Brand no mês 5 e do Non Brand nos meses 5 e 7. Além disso, percebe-se movimento semelhante dos custos entre esses canais, apresentando uma correlação positiva moderada (57,99%).
 
-####- Performance por Canal (Leads, CPL e Custos)
+***- Performance por Canal (Leads, CPL e Custos)***
 
 Conforme o gráfico nº 10 e tabela nº 11 e 12 abaixo, ao analisar a performance do CPL durante o período, comparando os meses 1 e 20 percebe-se que nem todos canais apresentaram uma melhora (redução). Nesse caso, Facebook apresenta maior redução do CPL, mas ainda sim continua alto comparado aos demais, com exceção do Google Ads Non Brand. Destaca-se Google Ads Non Brand devido à alta expressiva seguida de queda expressiva a partir do mês 4 até o 14, mas ainda sim termina no mês 20 com CPL alto em relação a todos canais.
 
@@ -181,7 +181,7 @@ Ao comparar os meses 1 e 20 o canal Google Ads Brand se mantém o mais atrativo,
 
 Nesse caso, a estratégia de comparação entre semestres para amenizar o impacto de sazonalidade não é interessante, pois observa-se que agora muda o cenário, com o Google Ads Non Brand com uma redução significativamente maior, inclusive superior ao Google Ads Brand, porém isso se deve principalmente aos 2 picos nos meses 4 e 7 do CPL que ocorrem de forma muito alta apenas nesse nesse canal, que estão contidos dentro do semestre considerado como de início e por fim isso gera uma distorção na comparação.
 
-##- Performance por Canal (Clientes, CPA e Custos)
+***- Performance por Canal (Clientes, CPA e Custos)***
 
 Conforme o gráfico nº 11 e tabelas nº 13 e 14 abaixo, nota-se que o canal Facebook apresenta o CPA com bastante variação e números elevados durante o período, até impossibilitando a visualização da performance dos demais canais nesse gráfico. 
 
@@ -228,7 +228,7 @@ Por fim, conforme o gráfico nº 15 abaixo, observa-se o canal Partner como dest
 
 A partir da análise do conjunto de gráficos e tabelas apresentados anteriormente relacionado à quebra por canais, nota-se mais vantagem no canal Google Ads Brand de forma geral, pois apesar de ter apresentado taxa de conversão inferior canal Partners, apresenta o menor CPA predominante no período.
 
-#### 7. Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com base nos KPIs
+# 7. Solução (Pt 3): Recomendação Final com Estratégia para Otimização da Performance com base nos KPIs
 
 Frente a esse cenário, considero que a estratégia mais eficiente seria focar em melhorar os KPIs CPA e taxa de conversão olhando individualmente para cada canal.
 
