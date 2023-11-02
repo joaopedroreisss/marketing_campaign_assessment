@@ -5,7 +5,9 @@
 # Sumário
 
 ***1. Problema de Negócio***
+
 ***2. Overview sobre os Dados***
+
 ***3. Considerações, premissas e observações sobre os dados e a resolução***
 ***4. Ferramentas e etapas***
 ***5. Solução (Pt 1): Definição dos KPIs para avaliação da performance***
