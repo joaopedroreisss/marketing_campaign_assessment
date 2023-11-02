@@ -76,7 +76,7 @@ Conforme o gráfico nº 4 abaixo, analisando a performance geral, sem quebrar po
 
 Conforme as tabelas nº 1, 2 e 3 abaixo, nota-se uma performance positiva ao final do período, com CPL quase 17% menor que o mês 1, porém o mês 14 (com um círculo no gráfico)  que apresentou o período de melhor performance com CPL 30,65% menor que o mês 1. Porém, fatores como sazonalidade podem distorcer a realidade ao comparar períodos curtos e diferentes, em função disso, ao comparar o semestre do fim do período com o do início conforme a tabela, obtemos um CPL ainda melhor, de 38,20% menor que o início, reforçando a situação positiva.
 
-### Tabela 1 - CPL, Leads e Custos
+#### Tabela 1 - CPL, Leads e Custos
 ![chart_1](tables/t_1.png)
 
 ### Tabela 2 - CPL, Leads e Custos
